@@ -1,0 +1,7 @@
+*.db
+.vs/*
+*.user
+
+Icarus/bin/*
+Icarus/obj/*
+Icarus/x64/*
