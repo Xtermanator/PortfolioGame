@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.DirectX;
+using Microsoft.DirectX.Direct3D;
 
 namespace Icarus
 {
@@ -15,6 +17,7 @@ namespace Icarus
         public MainWindow()
         {
             InitializeComponent();
+            Vector3 vec = new Vector3();
         }
     }
 }
